@@ -3,7 +3,7 @@ const loader = document.getElementById("loader");
 const filter = document.getElementById("filter");
 
 let limit = 5;
-let page = 1;
+let page = 2;
 
 // Fetch posts from API
 async function getPosts() {
